@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">视频监控</string>
+    <string name="tv_connect_cam">正在连接摄像头……</string>
+    <string name="tv_connect_cam_error">无法连接，请确认摄像头是否开启。</string>
+
+     <string name="IP">ip:</string>
+    <string name="duankou">端口:</string>
+    <string name="userid">用户名:</string>
+    <string name="keyword">密码:</string>
+    <string name="way">通道:</string>
+</resources>
